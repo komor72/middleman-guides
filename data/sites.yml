@@ -1,13 +1,75 @@
 built:
+  - url: http://htmlcolorcodes.com/
+    title: "HTML Color Codes"
+  - url: http://hull.io
+    title: "Hull.io"
+  - url: https://martinschurig.com
+    title: "Martin Schurig"
+    source: https://github.com/schurig/martinschurig-com-website
+  - url: http://www.nickrttn.me
+    title: "Portfolio :: Nick Rutten"
+  - url: http://www.startae.com
+    title: "Startaê - We’re your UX Design Team on demand"
+  - url: http://www.nickholden.io
+    source: https://github.com/nholden/nickholdenio
+  - url: https://smartcoin.com.br/
+    title: "Smartcoin - Web Payments"
+  - url: http://bakecalc.com/
+    title: "BakeCalc"
+  - url: http://polytronixglass.com/
+    title: "Polytronix Glass"
+  - url: http://htmlarrows.com/
+    title: "HTML Arrows"
+  - url: http://madtreebrewing.com/
+    title: "MadTree Brewing"
+    source: https://github.com/procload/madtree-brewing
+  - url: http://ryanmerrill.net/
+    title: "Ryan Clark Merrill"
+    source: https://github.com/procload/rcm
+  - url: http://chu.is
+    title: "Eric Chu is..."
+  - url: http://www.modularscale.com
+    title: "Modular Scale"
+    source: https://github.com/modularscale/modularscale.com
+  - url: http://www.eventxtra.com
+    title: "EventXtra - Simple, Impactful, event last forever"
+  - url: http://flammlachs.de
+    title: "Delicious fire broiled fish speciality"
+  - url: http://thisiscapra.com/
+    title: "Capra Design"
+    source: https://github.com/thisiscapra/thisiscapra.com
+  - url: http://hiphopquoted.com/
+    title: "Hip-Hop Quoted"
+    source: https://github.com/olliekav/hiphopquoted.com
+  - url: http://gunpowderlabs.com/
+  - url: http://hockeyapp.net/features/
+    title: "HockeyApp"
+  - url: http://dojo4.com
+    title: DOJO4
+  - url: http://doorman.it
+    title: Doorman - Evening Package Delivery on Request
+  - url: http://crazydesigns.co.uk
+  - url: http://cascadingmedia.com
   - url: https://www.simple.com
+    title: "Simple"
+  - url: http://www.appsagainstebola.org
+    title: "AppsAgainstEbola.org"
   - url: http://prototype-interactive.com/
   - url: http://www.mangrove.com
   - url: http://mokaproject.com/
+  - url: http://mountainscreen.com/
+    title: "Mountainscreen"
   - url: http://frontcube.com
   - url: http://ravisuhag.com/
   - url: http://www.theverge.com/a/the-verge-50/intro
-  - url: http://dahal.co
+  - url: http://dahal.github.io
+  - url: http://noconformity.com/
+    source: https://github.com/chrishough/myblog
+  - url: https://saltstack.cz
+    title: "Saltstack.cz"
+    source: https://github.com/petrkle/saltstack.cz
   - url: http://sass-lang.com
+    title: "Sass"
     source: https://github.com/sass/sass-site
   - url: http://startexploding.com
   - url: http://sassandcompass.com
@@ -76,6 +138,7 @@ built:
   - url: http://tsumego.tasuki.org
     source: https://github.com/tasuk/tsumego-web
   - url: http://mailchimp.com
+    title: "MailChimp"
   - url: http://mandrill.com
   - url: http://www.librario.de
   - url: http://www.madebytally.com
@@ -86,11 +149,11 @@ built:
   - url: http://rubyconferences.org
     source: https://github.com/ruby-conferences/ruby-conferences-site
   - url: http://theartificial.nl/
+    title: "The Artificial"
   - url: http://www.vpsland.com
   - url: http://docs.fraudrankr.com/
   - url: http://waterforpeople.org
   - url: http://www.viselectrica.it
-  - url: http://www.shannonethomas.com/
   - url: http://ausca.com
   - url: http://sourcey.com
     source: https://github.com/sourcey/sourcey.com
@@ -106,15 +169,88 @@ built:
   - url: http://distantfutu.re
     source: https://github.com/sgehrman/distantfuture
   - url: http://www.ecosio.com
+  - url: http://alohafishmans.com
+  - url: http://pomocni.owocni.org
+  - url: http://echobind.com
+    title: "Echobind"
+  - url: http://benjamintan.io
+    title: Benjamin Tan Wei Hao
+  - url: http://rubyclosur.es
+    title: The Ruby Closures Book
+  - url: http://www.lacroixdesign.net
+    title: "LaCroix Design Co."
+    source: https://github.com/lacroixdesign/lacroixdesign.net
+  - url: https://mojaveapp.com
+    title: "Mojaveapp"
+  - url: http://www.cheapboardgamer.com
+    title: "the Cheap Boardgamer"
+  - url: http://www.createthebridge.com
+    title: "Create the Bridge"
+  - url: http://www.26gems.io
+    title: "26 Gems"
+  - url: http://www.cantierecreativo.net
+    title: "Cantiere Creativo Ruby on Rails Web Agency"
+  - url: http://www.leanpanda.com
+    title: "Lean Panda Ruby on Rails Web Agency"
+  - url: http://2015.bettersoftware.it
+    title: "Better Software Management Conference in Italy"
+  - url: http://vaporwa.re/
+    title: "Vaporware Inc."
+  - url: http://www.tootdeck.com/
+    title: "TootDeck"
+  - url: http://parkland.io/
+    title: "The Parkland"
+  - url: http://webmontag-schwerin.de
+    title: "Webmontag Schwerin"
+    source: https://github.com/WebmontagSN/webmontag-schwerin.de
+  - url: http://www.e2esound.com
+    title: "e2esound.com"
+  - url: http://smahr.net
+    title: "Scott Mahr"
+  - url: http://ict4g.fbk.eu/
+    title: "ICT4G - FBK"
+  - url: http://spmbook.com/
+    title: "spmbook"
+  - url: http://www.ict4g.net/adolfo/
+    title: "Adolfo Villafiorita's Home Page"
+  - url: http://ecota.co
+    title: "EcoTa.co - book a mini cab"
+  - url: http://www.nishanths.me
+    title: "Nishanth Shanmugham"
+    source: https://github.com/nishanths/nishanths.github.io
+  - url: https://funio.com
+    title: "Funio Web Hosting"
+  - url: http://summit.nativeadvertising.com
+    title: The Native Advertising Summit
+  - url: https://laurendorman.io
+    title: "Lauren Dorman"
+    source: https://github.com/laurendorman/laurendorman.github.io/tree/dev
+  - url: http://ggw-prototype.goalgorilla.com/
+    title: "Greenpeace Greenwire style guide & prototype"
+    source: https://github.com/greenpeace/ggw_styleguide
+  - url: https://derautopilot.com/
+    title: "derAutopilot A/B Testing, UX Design und Ruby on Rails Consultancy"
+  - url: https://candygerman.com/
+    title: "German candy subscription box - candy every month"
+  - url: http://www.codateam.com
+    title: "Custom Software Development House and Dedicated PHP Developers from Poland"    
 mobile:
   - url: http://pollev.com
 blogs:
+  - url: http://www.downrightlies.net
+    title: 'Downright Lies'
+  - url: http://richardkall.se
+    title: "Richard Käll"
+    source: https://github.com/richardkall/richardkall.se
   - url: https://www.simple.com/blog
   - url: http://snwh.org/
   - url: http://awardwinningfjords.com
   - url: http://blog.troutwine.us
   - url: http://blog.vanutsteen.nl
     source: https://github.com/LeonB/blog.vanutsteen.nl
+  - url: http://aranair.github.io
+    title: "Boa Ho Man"
+    source: https://github.com/aranair/aranair.github.io
   - url: http://luebke-wohnen.de
   - url: http://benhollis.net
   - url: http://darrenknewton.com
@@ -132,7 +268,7 @@ blogs:
   - url: http://stevenosloan.com
   - url: http://4pdj.nl
     source: https://github.com/nathema/4pdj.nl
-  - url: http://Andrew.Kvalhe.im
+  - url: https://Andrew.Kvalhe.im
   - url: http://epochwolf.com
   - url: http://www.adevelopingstory.com
   - url: http://oli-g.me
@@ -142,6 +278,7 @@ blogs:
   - url: http://robots.thoughtbot.com
   - url: http://abhra.in
   - url: http://blog.riemann.cc
+    title: "Robert Riemann"
     source: https://github.com/rriemann/blog
   - url: http://nebulab.it/blog
   - url: http://schukin.com
@@ -149,6 +286,7 @@ blogs:
     source: https://github.com/FearMediocrity/fearmediocrity.co.uk
   - url: http://www.anthonycandaele.com/blog/
   - url: http://lord.io
+    title: "Robert Lord"
     source: https://github.com/lord/blog
   - url: http://blog.glebm.com/
   - url: http://www.sudandola.com
@@ -157,7 +295,90 @@ blogs:
   - url: https://blog.rainforestqa.com/
   - url: http://syui.github.io/middleman/
     source: https://github.com/syui/middleman-simple-template
+  - url: http://limekin.github.io/
   - url: https://chareice.com
   - url: http://www.ecosio.com/de/blog
   - url: http://apetyt-na-kuchnie.pl
-
+  - url: http://emaxime.com
+  - url: http://www.shannonethomas.com/
+    title: "Shannon E Thomas"
+  - url: http://hans.gerwitz.com/
+    title: "Hans Gerwitz"
+    source: https://github.com/gerwitz/hans.gerwitz.com
+  - url: http://nicholasjohnson.com/
+    title: "Nicholas Johnson"
+  - url: http://cball.me
+    title: "Level Up"
+    source: https://github.com/cball/cball.me
+  - url: http://devahoy.com/
+    title: "DevAhoy"
+    source: https://github.com/devahoy/devahoy-blog
+  - url: https://tikhon.com/
+    title: "Tikhon Bernstam"
+  - url: http://jacbac.github.io/bibliotech/
+    title: "JacBac's bibliotech"
+    source: https://github.com/jacbac/bibliotech
+  - url: http://benjamintan.io/blog
+    title: Benjamin Tan – Learnings and Writings
+  - url: https://sitevalidator.com
+    title: Site Validator
+  - url: https://cheersapp.io
+    title: Cheers app
+    source: https://github.com/angelbotto/cheersapp-web
+  - url: https://nhutdm.com
+    title: "NhutDM"
+    source: https://github.com/nhutdm/nhutdm.github.io
+  - url: http://davidl.fr
+    title: "davidl.fr - Front-end advices and best practices (in french)"
+    source: https://github.com/flexbox/davidl
+  - url: http://www.clearhaus.com/
+    title: "Clearhaus"
+  - url: http://www.zoomshift.com/
+    title: "ZoomShift - Employee Scheduling Software"
+  - url: http://pixyzehn.github.io/
+    title: "pixyzehn profile"
+    source: https://github.com/pixyzehn/pixyzehn.github.io
+  - url: http://phillyrb.org
+    source: https://github.com/phillyrb/phillyrb.org
+    title: "Philadelphia Ruby user group"
+  - url: http://turing.cool
+    source: https://github.com/turing-incomplete/turing-incomplete
+    title: "Turing Incomplete - A Podcast About Programming"
+  - url: https://www.fedux.org
+    title: "fedux.org - Lovely crafted ideas"
+  - url: http://bidah.github.io/blog
+    title: "BIDAH'S DIGITAL CRIB"
+  - url: https://rlafranchi.github.io
+    source: https://github.com/rlafranchi/rlafranchi.github.io
+    title: "Dreaming of Code"
+  - url: http://ikuwow.website
+    title: Query OK.
+    source: https://github.com/ikuwow/query_ok
+  - url: http://blog.lowermychurn.com
+    title: Customer Success Blog
+  - url: http://vyber-tydne.kle.cz
+    title: "Výběr týdne"
+    source: https://github.com/petrkle/vyber-tydne
+  - url: http://mizukiabe.net
+    title: "mizukiabe.net"
+  - url: https://mexbt.com
+    title: "meXBT: Mexican Bitcoin Exchange"
+  - url: http://engineering.sharethrough.com
+    title: Sharethrough Engineering
+  - url: http://www.valiantghost.com/
+    title: Valiant Ghost
+  - url: http://samuelbourdon.com
+    title: Samuel Bourdon
+  - url: http://nowifisummercamp.fr
+    title: No Wifi Summercamp
+    source: https://github.com/nowifisummercamp/nowifisummercamp.github.io
+  - url: http://www.webuildinternet.com
+    title: We Build Internet
+  - url: http://kdavi.es/
+    title: Kieren Davies
+    source: https://github.com/kierendavies/kdavi.es
+  - url: http://blog.blockscore.com
+    title: BlockScore Blog
+  - url: http://ashfurrow.com/
+    title: Ash Furrow
+    source: https://github.com/ashfurrow/blog

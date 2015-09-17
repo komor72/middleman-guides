@@ -3,8 +3,8 @@ require "pathname"
 module GuideHelpers
   def page_title
     title = "Middleman: "
-    if data.page.title
-      title << data.page.title
+    if current_page.data.title
+      title << current_page.data.title
     else
       title << t("index.sub_title")
     end
@@ -43,5 +43,9 @@ module GuideHelpers
 
   def locale_prefix
     (I18n.locale == :en) ? "" : "/" + I18n.locale.to_s
+  end
+
+  def sort_sites(sites)
+      sites.sort_by{ |s| (s.title || URI(s.url).host.sub('www.', '')).downcase }
   end
 end
